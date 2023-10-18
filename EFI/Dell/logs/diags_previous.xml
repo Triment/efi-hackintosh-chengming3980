@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <SupportAssistPrebootDiagnosticLog>
     <Schema>1.0.0</Schema>
-    <LogNumber>10</LogNumber>
-    <LogTimeStamp>09/10/2021 05:39:56</LogTimeStamp>
+    <LogNumber>11</LogNumber>
+    <LogTimeStamp>03/24/2023 00:36:29</LogTimeStamp>
     <ePSA_Data>
-      <Result>Abort</Result>
-      <ReturnCode>BOOT_F2</ReturnCode>
-      <DevicesTested>Memory, Hard Drive</DevicesTested>
-      <ePSAFullVersion>4400.07</ePSAFullVersion>
-      <ePSAInvocationCount>1</ePSAInvocationCount>
+      <Result>Not Reported</Result>
+      <ReturnCode>BOOT_HOST_OS</ReturnCode>
+      <ePSAFullVersion>4306.15</ePSAFullVersion>
+      <ePSAInvocationCount>4</ePSAInvocationCount>
     </ePSA_Data>
     <BIOS_Data>
-      <ErrorCategory>NO_BOOT</ErrorCategory>
-      <ErrorMessage><![CDATA[No bootable devices found.
-]]></ErrorMessage>
+      <ErrorCategory>KBD_FAIL</ErrorCategory>
+      <ErrorMessage><![CDATA[Alert! Keyboard not found.]]></ErrorMessage>
       <SOS_Available>FALSE</SOS_Available>
-      <TimeOutSeconds>0</TimeOutSeconds>
+      <TimeOutSeconds>3</TimeOutSeconds>
     </BIOS_Data>
   </SupportAssistPrebootDiagnosticLog>
