@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <SupportAssistPrebootDiagnosticLog>
     <Schema>1.0.0</Schema>
-    <LogNumber>11</LogNumber>
-    <LogTimeStamp>03/24/2023 00:36:29</LogTimeStamp>
+    <LogNumber>13</LogNumber>
+    <LogTimeStamp>10/19/2023 07:58:58</LogTimeStamp>
     <ePSA_Data>
       <Result>Not Reported</Result>
       <ReturnCode>BOOT_HOST_OS</ReturnCode>
       <ePSAFullVersion>4306.15</ePSAFullVersion>
-      <ePSAInvocationCount>4</ePSAInvocationCount>
+      <ePSAInvocationCount>6</ePSAInvocationCount>
     </ePSA_Data>
     <BIOS_Data>
       <ErrorCategory>KBD_FAIL</ErrorCategory>
