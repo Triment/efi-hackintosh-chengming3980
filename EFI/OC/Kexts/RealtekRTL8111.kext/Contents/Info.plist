@@ -3,7 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
+<<<<<<< HEAD
 	<string>19H1030</string>
+=======
+<<<<<<< HEAD
+	<string>23H311</string>
+=======
+	<string>19H1030</string>
+>>>>>>> 19fb6ef (all)
+>>>>>>> fa408c2 (sequoia)
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
@@ -17,7 +25,15 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
+<<<<<<< HEAD
 	<string>2.4.2</string>
+=======
+<<<<<<< HEAD
+	<string>2.5.0</string>
+=======
+	<string>2.4.2</string>
+>>>>>>> 19fb6ef (all)
+>>>>>>> fa408c2 (sequoia)
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,6 +41,28 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+	<string>2.5.0</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string></string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>14.2</string>
+	<key>DTSDKBuild</key>
+	<string>23C53</string>
+	<key>DTSDKName</key>
+	<string>macosx14.2</string>
+	<key>DTXcode</key>
+	<string>1520</string>
+	<key>DTXcodeBuild</key>
+	<string>15C500b</string>
+=======
+>>>>>>> fa408c2 (sequoia)
 	<string>2.4.2</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
@@ -40,6 +78,10 @@
 	<string>1030</string>
 	<key>DTXcodeBuild</key>
 	<string>10G8</string>
+<<<<<<< HEAD
+=======
+>>>>>>> 19fb6ef (all)
+>>>>>>> fa408c2 (sequoia)
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>RTL8111 PCIe Adapter</key>
@@ -52,6 +94,14 @@
 				<true/>
 				<key>enableCSO6</key>
 				<true/>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+				<key>enableEEE</key>
+				<true/>
+=======
+>>>>>>> 19fb6ef (all)
+>>>>>>> fa408c2 (sequoia)
 				<key>enableTSO4</key>
 				<true/>
 				<key>enableTSO6</key>
@@ -64,7 +114,15 @@
 				<true/>
 			</dict>
 			<key>Driver_Version</key>
+<<<<<<< HEAD
 			<string>2.4.2</string>
+=======
+<<<<<<< HEAD
+			<string>2.5.0d1</string>
+=======
+			<string>2.4.2</string>
+>>>>>>> 19fb6ef (all)
+>>>>>>> fa408c2 (sequoia)
 			<key>IOClass</key>
 			<string>RTL8111</string>
 			<key>IOPCIMatch</key>
@@ -80,7 +138,15 @@
 		</dict>
 	</dict>
 	<key>LSMinimumSystemVersion</key>
+<<<<<<< HEAD
 	<string>10.14</string>
+=======
+<<<<<<< HEAD
+	<string>10.13</string>
+=======
+	<string>10.14</string>
+>>>>>>> 19fb6ef (all)
+>>>>>>> fa408c2 (sequoia)
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright © 2013 Laura Müller. All rights reserved.</string>
 	<key>OSBundleLibraries</key>

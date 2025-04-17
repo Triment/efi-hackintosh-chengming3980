@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <SupportAssistPrebootDiagnosticLog>
     <Schema>1.0.0</Schema>
+<<<<<<< HEAD
     <LogNumber>14</LogNumber>
     <LogTimeStamp>10/19/2023 08:01:37</LogTimeStamp>
     <ePSA_Data>
@@ -25,5 +26,20 @@
       <FRU_String><![CDATA[Previous Fan]]></FRU_String>
       <SOS_Available>FALSE</SOS_Available>
       <TimeOutSeconds>0</TimeOutSeconds>
+=======
+    <LogNumber>12</LogNumber>
+    <LogTimeStamp>03/24/2023 00:37:12</LogTimeStamp>
+    <ePSA_Data>
+      <Result>Not Reported</Result>
+      <ReturnCode>BOOT_HOST_OS</ReturnCode>
+      <ePSAFullVersion>4306.15</ePSAFullVersion>
+      <ePSAInvocationCount>5</ePSAInvocationCount>
+    </ePSA_Data>
+    <BIOS_Data>
+      <ErrorCategory>KBD_FAIL</ErrorCategory>
+      <ErrorMessage><![CDATA[Alert! Keyboard not found.]]></ErrorMessage>
+      <SOS_Available>FALSE</SOS_Available>
+      <TimeOutSeconds>3</TimeOutSeconds>
+>>>>>>> fa408c2 (sequoia)
     </BIOS_Data>
   </SupportAssistPrebootDiagnosticLog>

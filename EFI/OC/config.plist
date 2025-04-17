@@ -53,6 +53,45 @@
 		<array>
 			<dict>
 				<key>Base</key>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+				<string></string>
+				<key>BaseSkip</key>
+				<integer>0</integer>
+				<key>Comment</key>
+				<string>Replace one byte sequence with another</string>
+				<key>Count</key>
+				<integer>0</integer>
+				<key>Enabled</key>
+				<false/>
+				<key>Find</key>
+				<data>ESIzRA==</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>Mask</key>
+				<data></data>
+				<key>OemTableId</key>
+				<data></data>
+				<key>Replace</key>
+				<data>RDMiEQ==</data>
+				<key>ReplaceMask</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+			</dict>
+			<dict>
+				<key>Base</key>
+>>>>>>> 19fb6ef (all)
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 				<string>\_SB.PCI0.LPCB.HPET</string>
 				<key>BaseSkip</key>
 				<integer>0</integer>
@@ -61,7 +100,19 @@
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
+<<<<<<< HEAD
 				<true/>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+				<true/>
+=======
+				<false/>
+>>>>>>> 19fb6ef (all)
+=======
+				<true/>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 				<key>Find</key>
 				<data>X0NSUw==</data>
 				<key>Limit</key>
@@ -81,6 +132,13 @@
 				<key>TableSignature</key>
 				<data></data>
 			</dict>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<dict>
 				<key>Base</key>
 				<string></string>
@@ -171,6 +229,14 @@
 				<key>TableSignature</key>
 				<data>RFNEVA==</data>
 			</dict>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 19fb6ef (all)
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 		</array>
 		<key>Quirks</key>
 		<dict>
@@ -239,7 +305,19 @@
 		<key>Quirks</key>
 		<dict>
 			<key>AllowRelocationBlock</key>
+<<<<<<< HEAD
 			<true/>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+			<true/>
+=======
+			<false/>
+>>>>>>> 19fb6ef (all)
+=======
+			<true/>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>AvoidRuntimeDefrag</key>
 			<true/>
 			<key>DevirtualiseMmio</key>
@@ -259,7 +337,19 @@
 			<key>ForceExitBootServices</key>
 			<false/>
 			<key>ProtectMemoryRegions</key>
+<<<<<<< HEAD
 			<true/>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+			<true/>
+=======
+			<false/>
+>>>>>>> 19fb6ef (all)
+=======
+			<true/>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>ProtectSecureBoot</key>
 			<false/>
 			<key>ProtectUefiServices</key>
@@ -270,8 +360,21 @@
 			<integer>0</integer>
 			<key>RebuildAppleMemoryMap</key>
 			<true/>
+<<<<<<< HEAD
 			<key>ResizeAppleGpuBars</key>
 			<integer>-1</integer>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+			<key>ResizeAppleGpuBars</key>
+			<integer>-1</integer>
+=======
+>>>>>>> 19fb6ef (all)
+=======
+			<key>ResizeAppleGpuBars</key>
+			<integer>-1</integer>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>SetupVirtualMap</key>
 			<true/>
 			<key>SignalAppleOS</key>
@@ -287,7 +390,19 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
+<<<<<<< HEAD
 				<data>AACbPg==</data>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+				<data>AACbPg==</data>
+=======
+				<data>BwCbPg==</data>
+>>>>>>> 19fb6ef (all)
+=======
+				<data>AACbPg==</data>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
 				<key>device-id</key>
@@ -307,7 +422,19 @@
 				<key>framebuffer-con0-type</key>
 				<data>AAgAAA==</data>
 				<key>framebuffer-con1-busid</key>
+<<<<<<< HEAD
 				<data>AgAAAA==</data>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+				<data>AgAAAA==</data>
+=======
+				<data>BQAAAA==</data>
+>>>>>>> 19fb6ef (all)
+=======
+				<data>AgAAAA==</data>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 				<key>framebuffer-con1-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con1-flags</key>
@@ -369,7 +496,19 @@
 				<key>BundlePath</key>
 				<string>Lilu.kext</string>
 				<key>Comment</key>
+<<<<<<< HEAD
 				<string>V1.6.2 | Patch engine</string>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+				<string>V1.6.2 | Patch engine</string>
+=======
+				<string>Patch engine</string>
+>>>>>>> 19fb6ef (all)
+=======
+				<string>V1.6.2 | Patch engine</string>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -387,7 +526,19 @@
 				<key>BundlePath</key>
 				<string>VirtualSMC.kext</string>
 				<key>Comment</key>
+<<<<<<< HEAD
 				<string>V1.3.0 | SMC emulator</string>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+				<string>V1.3.0 | SMC emulator</string>
+=======
+				<string>SMC emulator</string>
+>>>>>>> 19fb6ef (all)
+=======
+				<string>V1.3.0 | SMC emulator</string>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -405,7 +556,19 @@
 				<key>BundlePath</key>
 				<string>WhateverGreen.kext</string>
 				<key>Comment</key>
+<<<<<<< HEAD
 				<string>V1.6.2</string>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+				<string>V1.6.2</string>
+=======
+				<string>Video patches</string>
+>>>>>>> 19fb6ef (all)
+=======
+				<string>V1.6.2</string>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -423,7 +586,19 @@
 				<key>BundlePath</key>
 				<string>AppleALC.kext</string>
 				<key>Comment</key>
+<<<<<<< HEAD
 				<string>V1.7.7 | Audio patches</string>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+				<string>V1.7.7 | Audio patches</string>
+=======
+				<string>Audio patches</string>
+>>>>>>> 19fb6ef (all)
+=======
+				<string>V1.7.7 | Audio patches</string>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -439,9 +614,225 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
+<<<<<<< HEAD
 				<string>RealtekRTL8111.kext</string>
 				<key>Comment</key>
 				<string>V2.4.2 | Network</string>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+				<string>RealtekRTL8111.kext</string>
+				<key>Comment</key>
+				<string>V2.4.2 | Network</string>
+=======
+				<string>IntelMausi.kext</string>
+				<key>Comment</key>
+				<string>Intel Ethernet LAN</string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/IntelMausi</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>13.0.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>BundlePath</key>
+				<string>Legacy_USB3.kext</string>
+				<key>Comment</key>
+				<string>XHC ports configuration</string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>15.0.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>BundlePath</key>
+				<string>AppleMCEReporterDisabler.kext</string>
+				<key>Comment</key>
+				<string>AppleMCEReporter disabler</string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>19.0.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>BundlePath</key>
+				<string>VoodooPS2Controller.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/VoodooPS2Controller</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>15.0.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>BundlePath</key>
+				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/VoodooPS2Keyboard</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>15.0.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>BundlePath</key>
+				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/VoodooPS2Mouse</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>15.0.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>BundlePath</key>
+				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/VoodooPS2Trackpad</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>15.0.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>BundlePath</key>
+				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/VoodooInput</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>15.0.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>BundlePath</key>
+				<string>AirportBrcmFixup.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/AirportBrcmFixup</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>12.0.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>BundlePath</key>
+				<string>AirportBrcmFixup.kext/Contents/PlugIns/AirPortBrcm4360_Injector.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string>19.9.9</string>
+				<key>MinKernel</key>
+				<string>12.0.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>BundlePath</key>
+				<string>AirportBrcmFixup.kext/Contents/PlugIns/AirPortBrcmNIC_Injector.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>17.0.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>BundlePath</key>
+				<string>RealtekRTL8111.kext</string>
+				<key>Comment</key>
+				<string>网卡</string>
+>>>>>>> 19fb6ef (all)
+=======
+				<string>RealtekRTL8111.kext</string>
+				<key>Comment</key>
+				<string>V2.4.2 | Network</string>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -453,6 +844,13 @@
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<dict>
 				<key>Arch</key>
 				<string>x86_64</string>
@@ -579,6 +977,14 @@
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 19fb6ef (all)
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 		</array>
 		<key>Block</key>
 		<array>
@@ -595,8 +1001,21 @@
 				<string></string>
 				<key>MinKernel</key>
 				<string></string>
+<<<<<<< HEAD
 				<key>Strategy</key>
 				<string>Disable</string>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+				<key>Strategy</key>
+				<string>Disable</string>
+=======
+>>>>>>> 19fb6ef (all)
+=======
+				<key>Strategy</key>
+				<string>Disable</string>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			</dict>
 		</array>
 		<key>Emulate</key>
@@ -859,6 +1278,13 @@
 			<key>AppleXcpmForceBoost</key>
 			<false/>
 			<key>CustomSMBIOSGuid</key>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<true/>
 			<key>CustomPciSerialDevice</key>
 			<false/>
@@ -866,6 +1292,17 @@
 			<true/>
 			<key>DisableIoMapperMapping</key>
 			<false/>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+			<false/>
+			<key>DisableIoMapper</key>
+			<true/>
+>>>>>>> 19fb6ef (all)
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>DisableLinkeditJettison</key>
 			<true/>
 			<key>DisableRtcChecksum</key>
@@ -874,8 +1311,21 @@
 			<false/>
 			<key>ExternalDiskIcons</key>
 			<false/>
+<<<<<<< HEAD
 			<key>ForceAquantiaEthernet</key>
 			<false/>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+			<key>ForceAquantiaEthernet</key>
+			<false/>
+=======
+>>>>>>> 19fb6ef (all)
+=======
+			<key>ForceAquantiaEthernet</key>
+			<false/>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>ForceSecureBootScheme</key>
 			<false/>
 			<key>IncreasePciBarSize</key>
@@ -919,17 +1369,39 @@
 			<integer>0</integer>
 			<key>HibernateMode</key>
 			<string>None</string>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>HibernateSkipsPicker</key>
 			<false/>
 			<key>HideAuxiliary</key>
 			<false/>
 			<key>InstanceIdentifier</key>
 			<string></string>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+			<key>HideAuxiliary</key>
+			<false/>
+>>>>>>> 19fb6ef (all)
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>LauncherOption</key>
 			<string>Disabled</string>
 			<key>LauncherPath</key>
 			<string>Default</string>
 			<key>PickerAttributes</key>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> fa408c2 (sequoia)
 			<integer>19</integer>
 			<key>PickerAudioAssist</key>
 			<false/>
@@ -939,6 +1411,27 @@
 			<string>Auto</string>
 			<key>PollAppleHotKeys</key>
 			<true/>
+<<<<<<< HEAD
+=======
+=======
+			<integer>17</integer>
+=======
+			<integer>19</integer>
+>>>>>>> 64e1bae (sonoma)
+			<key>PickerAudioAssist</key>
+			<false/>
+			<key>PickerMode</key>
+			<string>Apple</string>
+			<key>PickerVariant</key>
+			<string>Auto</string>
+			<key>PollAppleHotKeys</key>
+<<<<<<< HEAD
+			<false/>
+>>>>>>> 19fb6ef (all)
+=======
+			<true/>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>ShowPicker</key>
 			<true/>
 			<key>TakeoffDelay</key>
@@ -958,8 +1451,23 @@
 			<integer>0</integer>
 			<key>DisplayLevel</key>
 			<integer>2147483650</integer>
+<<<<<<< HEAD
 			<key>LogModules</key>
 			<string>*</string>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+			<key>LogModules</key>
+			<string>*</string>
+=======
+			<key>SerialInit</key>
+			<false/>
+>>>>>>> 19fb6ef (all)
+=======
+			<key>LogModules</key>
+			<string>*</string>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>SysReport</key>
 			<false/>
 			<key>Target</key>
@@ -988,12 +1496,36 @@
 		</array>
 		<key>Security</key>
 		<dict>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> fa408c2 (sequoia)
 			<key>AllowSetDefault</key>
 			<true/>
 			<key>ApECID</key>
 			<integer>0</integer>
 			<key>AuthRestart</key>
 			<true/>
+<<<<<<< HEAD
+=======
+=======
+			<key>AllowNvramReset</key>
+			<true/>
+=======
+>>>>>>> 64e1bae (sonoma)
+			<key>AllowSetDefault</key>
+			<true/>
+			<key>ApECID</key>
+			<integer>0</integer>
+			<key>AuthRestart</key>
+<<<<<<< HEAD
+			<false/>
+>>>>>>> 19fb6ef (all)
+=======
+			<true/>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>BlacklistAppleUpdate</key>
 			<true/>
 			<key>DmgLoading</key>
@@ -1011,6 +1543,11 @@
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> fa408c2 (sequoia)
 			<string>Disabled</string>
 			<key>Vault</key>
 			<string>Optional</string>
@@ -1049,6 +1586,55 @@
 			<key>Override</key>
 			<false/>
 		</dict>
+<<<<<<< HEAD
+=======
+=======
+			<string>Default</string>
+			<key>Vault</key>
+			<string>Optional</string>
+		</dict>
+>>>>>>> 19fb6ef (all)
+=======
+			<string>Disabled</string>
+			<key>Vault</key>
+			<string>Optional</string>
+		</dict>
+		<key>Serial</key>
+		<dict>
+			<key>Custom</key>
+			<dict>
+				<key>BaudRate</key>
+				<integer>115200</integer>
+				<key>ClockRate</key>
+				<integer>1843200</integer>
+				<key>DetectCable</key>
+				<false/>
+				<key>ExtendedTxFifoSize</key>
+				<integer>64</integer>
+				<key>FifoControl</key>
+				<integer>7</integer>
+				<key>LineControl</key>
+				<integer>3</integer>
+				<key>PciDeviceInfo</key>
+				<data>/w==</data>
+				<key>RegisterAccessWidth</key>
+				<integer>8</integer>
+				<key>RegisterBase</key>
+				<integer>1016</integer>
+				<key>RegisterStride</key>
+				<integer>1</integer>
+				<key>UseHardwareFlowControl</key>
+				<false/>
+				<key>UseMmio</key>
+				<false/>
+			</dict>
+			<key>Init</key>
+			<true/>
+			<key>Override</key>
+			<false/>
+		</dict>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 		<key>Tools</key>
 		<array>
 			<dict>
@@ -1062,8 +1648,21 @@
 				<false/>
 				<key>Flavour</key>
 				<string>OpenShell:UEFIShell:Shell</string>
+<<<<<<< HEAD
 				<key>FullNvramAccess</key>
 				<false/>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+				<key>FullNvramAccess</key>
+				<false/>
+=======
+>>>>>>> 19fb6ef (all)
+=======
+				<key>FullNvramAccess</key>
+				<false/>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 				<key>Name</key>
 				<string>UEFI Shell</string>
 				<key>Path</key>
@@ -1084,8 +1683,21 @@
 				<false/>
 				<key>Flavour</key>
 				<string>MemTest</string>
+<<<<<<< HEAD
 				<key>FullNvramAccess</key>
 				<false/>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+				<key>FullNvramAccess</key>
+				<false/>
+=======
+>>>>>>> 19fb6ef (all)
+=======
+				<key>FullNvramAccess</key>
+				<false/>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 				<key>Name</key>
 				<string>memtest86</string>
 				<key>Path</key>
@@ -1106,8 +1718,21 @@
 				<false/>
 				<key>Flavour</key>
 				<string>Auto</string>
+<<<<<<< HEAD
 				<key>FullNvramAccess</key>
 				<false/>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+				<key>FullNvramAccess</key>
+				<false/>
+=======
+>>>>>>> 19fb6ef (all)
+=======
+				<key>FullNvramAccess</key>
+				<false/>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 				<key>Name</key>
 				<string>Shutdown</string>
 				<key>Path</key>
@@ -1137,6 +1762,11 @@
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> fa408c2 (sequoia)
 				<key>ForceDisplayRotationInEFI</key>
 				<integer>0</integer>
 				<key>SystemAudioVolume</key>
@@ -1145,10 +1775,40 @@
 				<string>keepsyms=1 igfxonln=1 alcid=11</string>
 				<key>csr-active-config</key>
 				<data>7w8AAA==</data>
+<<<<<<< HEAD
+=======
+=======
+=======
+				<key>ForceDisplayRotationInEFI</key>
+				<integer>0</integer>
+>>>>>>> 64e1bae (sonoma)
+				<key>SystemAudioVolume</key>
+				<data>Rg==</data>
+				<key>boot-args</key>
+				<string>keepsyms=1 igfxonln=1 alcid=66</string>
+				<key>csr-active-config</key>
+<<<<<<< HEAD
+				<data>AAAAAA==</data>
+>>>>>>> 19fb6ef (all)
+=======
+				<data>7w8AAA==</data>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 				<key>prev-lang:kbd</key>
 				<string>zh-Hans:0</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+				<key>ForceDisplayRotationInEFI</key>
+				<integer>0</integer>
+>>>>>>> 19fb6ef (all)
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -1168,10 +1828,30 @@
 				<string>ForceDisplayRotationInEFI</string>
 			</array>
 		</dict>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> fa408c2 (sequoia)
 		<key>LegacyOverwrite</key>
 		<false/>
 		<key>WriteFlash</key>
 		<true/>
+<<<<<<< HEAD
+=======
+=======
+		<key>LegacyEnable</key>
+		<false/>
+		<key>LegacyOverwrite</key>
+		<false/>
+>>>>>>> 19fb6ef (all)
+=======
+		<key>LegacyOverwrite</key>
+		<false/>
+		<key>WriteFlash</key>
+		<true/>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 		<key>LegacySchema</key>
 		<dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
@@ -1200,6 +1880,17 @@
 				<string>BootOrder</string>
 			</array>
 		</dict>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+		<key>WriteFlash</key>
+		<true/>
+>>>>>>> 19fb6ef (all)
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 	</dict>
 	<key>PlatformInfo</key>
 	<dict>
@@ -1214,9 +1905,27 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
+<<<<<<< HEAD
 			<string>C02945300QXLNV9UE</string>
 			<key>ProcessorType</key>
 			<integer>4105</integer>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+			<string>C02945300QXLNV9UE</string>
+			<key>ProcessorType</key>
+			<integer>4105</integer>
+=======
+			<string>C07828108QXKXPG1H</string>
+			<key>ProcessorType</key>
+			<integer>1801</integer>
+>>>>>>> 19fb6ef (all)
+=======
+			<string>C02945300QXLNV9UE</string>
+			<key>ProcessorType</key>
+			<integer>4105</integer>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>ROM</key>
 			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
@@ -1224,11 +1933,33 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> fa408c2 (sequoia)
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
 			<string>C02ZN0HBJV3Q</string>
 			<key>SystemUUID</key>
 			<string>AABE97EB-03F7-43B3-B654-7250F3445B53</string>
+<<<<<<< HEAD
+=======
+=======
+			<string>Macmini8,1</string>
+=======
+			<string>iMac19,1</string>
+>>>>>>> 64e1bae (sonoma)
+			<key>SystemSerialNumber</key>
+			<string>C02ZN0HBJV3Q</string>
+			<key>SystemUUID</key>
+<<<<<<< HEAD
+			<string>CCA22297-6098-41AF-9820-06F26DB40A4A</string>
+>>>>>>> 19fb6ef (all)
+=======
+			<string>AABE97EB-03F7-43B3-B654-7250F3445B53</string>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1237,7 +1968,19 @@
 		<key>UpdateSMBIOS</key>
 		<true/>
 		<key>UpdateSMBIOSMode</key>
+<<<<<<< HEAD
 		<string>Custom</string>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+		<string>Custom</string>
+=======
+		<string>Create</string>
+>>>>>>> 19fb6ef (all)
+=======
+		<string>Custom</string>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 		<key>UseRawUuidEncoding</key>
 		<false/>
 	</dict>
@@ -1265,11 +2008,30 @@
 			<key>CustomDelays</key>
 			<false/>
 			<key>GraphicsInputMirroring</key>
+<<<<<<< HEAD
 			<false/>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+			<false/>
+=======
+			<true/>
+>>>>>>> 19fb6ef (all)
+=======
+			<false/>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>KeyInitialDelay</key>
 			<integer>50</integer>
 			<key>KeySubsequentDelay</key>
 			<integer>5</integer>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>PointerDwellClickTimeout</key>
 			<integer>0</integer>
 			<key>PointerDwellDoubleClickTimeout</key>
@@ -1282,6 +2044,14 @@
 			<integer>0</integer>
 			<key>PointerPollMax</key>
 			<integer>0</integer>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 19fb6ef (all)
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>PointerSpeedDiv</key>
 			<integer>1</integer>
 			<key>PointerSpeedMul</key>
@@ -1292,6 +2062,11 @@
 			<key>AudioCodec</key>
 			<integer>0</integer>
 			<key>AudioDevice</key>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> fa408c2 (sequoia)
 			<string>PciRoot(0x0)/Pci(0x1F,0x3)</string>
 			<key>AudioOutMask</key>
 			<integer>-1</integer>
@@ -1305,17 +2080,62 @@
 			<integer>-30</integer>
 			<key>MinimumAudibleGain</key>
 			<integer>-128</integer>
+<<<<<<< HEAD
+=======
+=======
+			<string>PciRoot(0x0)/Pci(0x1b,0x0)</string>
+			<key>AudioOut</key>
+			<integer>0</integer>
+			<key>AudioSupport</key>
+			<false/>
+			<key>MinimumVolume</key>
+			<integer>20</integer>
+>>>>>>> 19fb6ef (all)
+=======
+			<string>PciRoot(0x0)/Pci(0x1F,0x3)</string>
+			<key>AudioOutMask</key>
+			<integer>-1</integer>
+			<key>AudioSupport</key>
+			<false/>
+			<key>DisconnectHda</key>
+			<false/>
+			<key>MaximumGain</key>
+			<integer>-15</integer>
+			<key>MinimumAssistGain</key>
+			<integer>-30</integer>
+			<key>MinimumAudibleGain</key>
+			<integer>-128</integer>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>PlayChime</key>
 			<string>Auto</string>
 			<key>ResetTrafficClass</key>
 			<false/>
 			<key>SetupDelay</key>
 			<integer>0</integer>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+			<key>VolumeAmplifier</key>
+			<integer>0</integer>
+>>>>>>> 19fb6ef (all)
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 		</dict>
 		<key>ConnectDrivers</key>
 		<true/>
 		<key>Drivers</key>
 		<array>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<dict>
 				<key>Arguments</key>
 				<string></string>
@@ -1376,6 +2196,16 @@
 				<key>Path</key>
 				<string>ResetNvramEntry.efi</string>
 			</dict>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+			<string>HfsPlus.efi</string>
+			<string>OpenRuntime.efi</string>
+>>>>>>> 19fb6ef (all)
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 		</array>
 		<key>Input</key>
 		<dict>
@@ -1400,26 +2230,69 @@
 		<dict>
 			<key>ClearScreenOnModeSwitch</key>
 			<false/>
+<<<<<<< HEAD
 			<key>ConsoleFont</key>
 			<string></string>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+			<key>ConsoleFont</key>
+			<string></string>
+=======
+>>>>>>> 19fb6ef (all)
+=======
+			<key>ConsoleFont</key>
+			<string></string>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>ConsoleMode</key>
 			<string></string>
 			<key>DirectGopRendering</key>
 			<false/>
 			<key>ForceResolution</key>
 			<false/>
+<<<<<<< HEAD
 			<key>GopBurstMode</key>
 			<false/>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+			<key>GopBurstMode</key>
+			<false/>
+=======
+>>>>>>> 19fb6ef (all)
+=======
+			<key>GopBurstMode</key>
+			<false/>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>GopPassThrough</key>
 			<string>Disabled</string>
 			<key>IgnoreTextInGraphics</key>
 			<false/>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>InitialMode</key>
 			<string>Auto</string>
 			<key>ProvideConsoleGop</key>
 			<true/>
 			<key>ReconnectGraphicsOnConnect</key>
 			<false/>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+			<key>ProvideConsoleGop</key>
+			<true/>
+>>>>>>> 19fb6ef (all)
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>ReconnectOnResChange</key>
 			<false/>
 			<key>ReplaceTabWithSpace</key>
@@ -1432,8 +2305,21 @@
 			<string>BuiltinGraphics</string>
 			<key>UgaPassThrough</key>
 			<false/>
+<<<<<<< HEAD
 			<key>UIScale</key>
 			<integer>-1</integer>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+			<key>UIScale</key>
+			<integer>1</integer>
+=======
+>>>>>>> 19fb6ef (all)
+=======
+			<key>UIScale</key>
+			<integer>-1</integer>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 		</dict>
 		<key>ProtocolOverrides</key>
 		<dict>
@@ -1468,10 +2354,27 @@
 			<key>FirmwareVolume</key>
 			<true/>
 			<key>HashServices</key>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> fa408c2 (sequoia)
 			<true/>
 			<key>OSInfo</key>
 			<false/>
 			<key>PciIo</key>
+<<<<<<< HEAD
+=======
+=======
+			<false/>
+=======
+			<true/>
+>>>>>>> 64e1bae (sonoma)
+			<key>OSInfo</key>
+>>>>>>> 19fb6ef (all)
+			<false/>
+			<key>PciIo</key>
+>>>>>>> fa408c2 (sequoia)
 			<false/>
 			<key>UnicodeCollation</key>
 			<false/>
@@ -1484,12 +2387,29 @@
 			<false/>
 			<key>EnableVectorAcceleration</key>
 			<true/>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>EnableVmx</key>
 			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
 			<key>ForceOcWriteFlash</key>
 			<false/>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+			<key>ExitBootServicesDelay</key>
+			<integer>0</integer>
+>>>>>>> 19fb6ef (all)
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>ForgeUefiSupport</key>
 			<false/>
 			<key>IgnoreInvalidFlexRatio</key>
@@ -1500,12 +2420,27 @@
 			<false/>
 			<key>RequestBootVarRouting</key>
 			<true/>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>ResizeGpuBars</key>
 			<integer>-1</integer>
 			<key>ResizeUsePciRbIo</key>
 			<true/>
 			<key>ShimRetainProtocol</key>
 			<false/>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 19fb6ef (all)
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>

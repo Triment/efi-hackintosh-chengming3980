@@ -3,7 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
+<<<<<<< HEAD
 	<string>21G651</string>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<string>23H222</string>
+=======
+	<string>19H1323</string>
+>>>>>>> 19fb6ef (all)
+=======
+	<string>21G651</string>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -17,7 +29,19 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
+<<<<<<< HEAD
 	<string>1.6.6</string>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<string>1.6.9</string>
+=======
+	<string>1.5.3</string>
+>>>>>>> 19fb6ef (all)
+=======
+	<string>1.6.6</string>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,7 +49,34 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
+<<<<<<< HEAD
 	<string>1.6.6</string>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<string>1.6.9</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string></string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>14.2</string>
+	<key>DTSDKBuild</key>
+	<string>23C53</string>
+	<key>DTSDKName</key>
+	<string>macosx14.2</string>
+	<key>DTXcode</key>
+	<string>1520</string>
+	<key>DTXcodeBuild</key>
+	<string>15C500b</string>
+=======
+	<string>1.5.3</string>
+=======
+	<string>1.6.6</string>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -41,7 +92,16 @@
 	<key>DTXcode</key>
 	<string>1341</string>
 	<key>DTXcodeBuild</key>
+<<<<<<< HEAD
 	<string>13F100</string>
+=======
+<<<<<<< HEAD
+	<string>12B45b</string>
+>>>>>>> 19fb6ef (all)
+=======
+	<string>13F100</string>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>NVHDAEnabler</key>

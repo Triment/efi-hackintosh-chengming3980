@@ -3,7 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
+<<<<<<< HEAD
 	<string>21G531</string>
+=======
+<<<<<<< HEAD
+	<string>23H311</string>
+=======
+	<string>21G531</string>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -17,7 +25,15 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
+<<<<<<< HEAD
 	<string>1.3.2</string>
+=======
+<<<<<<< HEAD
+	<string>1.3.5</string>
+=======
+	<string>1.3.2</string>
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,6 +41,28 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+	<string>1.3.5</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string></string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>14.2</string>
+	<key>DTSDKBuild</key>
+	<string>23C53</string>
+	<key>DTSDKName</key>
+	<string>macosx14.2</string>
+	<key>DTXcode</key>
+	<string>1520</string>
+	<key>DTXcodeBuild</key>
+	<string>15C500b</string>
+=======
+>>>>>>> fa408c2 (sequoia)
 	<string>1.3.2</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
@@ -42,6 +80,10 @@
 	<string>1341</string>
 	<key>DTXcodeBuild</key>
 	<string>13F100</string>
+<<<<<<< HEAD
+=======
+>>>>>>> 64e1bae (sonoma)
+>>>>>>> fa408c2 (sequoia)
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>as.vit9696.SMCProcessor</key>
